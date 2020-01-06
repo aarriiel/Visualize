@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Visualize</string>
+    <string name="title_my_chart">My Chart</string>
+    <string name="title_new_chart">New Chart</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_show_chart">Show Chart</string>
+</resources>

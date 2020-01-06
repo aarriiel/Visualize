@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_my_chart"
+        android:icon="@mipmap/statistics"
+        android:title="@string/title_my_chart" />
+
+    <item
+        android:id="@+id/navigation_new_chart"
+        android:icon="@mipmap/analysis"
+        android:title="@string/title_new_chart" />
+
+    <item
+        android:id="@+id/navigation_setting"
+        android:icon="@mipmap/repairing"
+        android:title="@string/title_setting" />
+
+</menu>
